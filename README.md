@@ -37,4 +37,4 @@ http://localhost:5173
 - Online Payments
 
 ## Author
-Divya Reddy
+Kapa Sai Divya
