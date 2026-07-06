@@ -1,2 +1,24 @@
-# MediBook
-MediBook is a React-based doctor appointment booking platform that enables users to browse hospitals, view doctor details, and book appointments seamlessly. The project demonstrates React components, routing, and responsive UI design, with future plans for backend integration using Node.js and MongoDB.
+# Doctor Appointment Booking 
+
+Frontend application built using React and Vite.
+
+## Features
+- Browse hospitals
+- View doctors
+- Doctor profiles
+- Book appointments
+- User login and registration pages
+- Responsive UI
+
+## Tech Stack
+- React
+- React Router
+- CSS
+- Vite
+
+## Future Scope
+- Node.js backend
+- MongoDB database
+- Authentication
+- Hospital dashboard
+- Online payments
